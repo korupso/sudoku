@@ -1,0 +1,23 @@
+{
+  "name": "sudoku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/korupso/sudoku.git"
+  },
+  "author": "Joel Meccariello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/korupso/sudoku/issues"
+  },
+  "homepage": "https://github.com/korupso/sudoku#readme",
+  "dependencies": {
+    "@types/express": "^4.17.9",
+    "express": "^4.17.1"
+  }
+}
